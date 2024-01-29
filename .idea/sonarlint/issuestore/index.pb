@@ -17,3 +17,5 @@ S
 #PP_2_1_3_SpringBeans-master/pom.xml,5\8\58c6c3fd6094e8771e22c37109b48b1e0a8439ad
 g
 7PP_2_1_3_SpringBeans-master/src/test/java/MainTest.java,3\e\3e93db0a05bbbe73fd19dec1356893d5ea8b4d9b
+V
+&PP_2_1_3_SpringBeans-master/.gitignore,d\3\d3ec494fe9eb212f4b366cccf6627b4f54fe3305
